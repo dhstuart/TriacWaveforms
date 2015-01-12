@@ -17,6 +17,15 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Matlab temp files
+*.asv
+
+*.png
+*.pdf
+
+#Cal inst waveform files
+*.AWB
+
 # =========================
 # Operating System Files
 # =========================
